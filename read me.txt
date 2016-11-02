@@ -1,0 +1,20 @@
+2.
+
+ a .foo  position: relative miatt eltolja a bal felso sarokbol magat 20 pixellel oldalra es le, ezen belul a .bar megcsinalja ugyanezt (a pos relativ miatt a .foo bal felso reszebol indul nem teljesen felulrol. 
+Igy a bal felso saroktol 40 re lesz jobbra es lefele. innentol egyszeru pitagorasz tetellel kijon hogy 40*40 + 40*40 a gyok alatt. Igy a tavolsag 56.56pixel
+Pitagoras :  
+
+3.1
+
+
+
+
+display block  : just this element can be in the line
+
+display inline block :  makes the element create inline-boxes 
+
+3.2
+
+section: a self-contained composition in a document
+
+arcticle : An article is an independent, stand-alone piece of discrete content. Like a blogpost, or a news item.
