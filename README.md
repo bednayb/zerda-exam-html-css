@@ -81,7 +81,8 @@ Add your answer to this readme file, commit your changes to this repository.
 </html>
 ```
 #### Your answer: [2p]
-
+a .foo  position: relative miatt eltolja a bal felso sarokbol magat 20 pixellel oldalra es le, ezen belul a .bar megcsinalja ugyanezt (a pos relativ miatt a .foo bal felso reszebol indul nem teljesen felulrol. 
+Igy a bal felso saroktol 40 re lesz jobbra es lefele. innentol egyszeru pitagorasz tetellel kijon hogy 40*40 + 40*40 a gyok alatt. Igy a tavolsag 56.56pixel
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
@@ -89,7 +90,14 @@ Add your answer to this readme file, commit your changes to this repository.
 
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
+display block  : just this element can be in the line
+
+display inline block :  makes the element create inline-boxes 
 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
+
+section: a self-contained composition in a document
+
+arcticle : An article is an independent, stand-alone piece of discrete content. Like a blogpost, or a news item.
